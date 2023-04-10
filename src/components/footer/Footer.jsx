@@ -28,7 +28,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://api.whatsapp.com/send?phone=960606569&text=Hello, more information!"
+            href="https://api.whatsapp.com/send?phone=+91960606569&text=Hello, more information!"
             className="footer__social-link"
             target="_blank"
           >

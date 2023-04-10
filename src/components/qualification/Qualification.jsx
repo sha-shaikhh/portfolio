@@ -173,7 +173,7 @@ const Qualification = () => {
                   VIS Networks - Bangalore
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt">2006 - 2007</i>
+                  <i className="uil uil-calendar-alt">2015 - 2018</i>
                 </div>
               </div>
             </div>

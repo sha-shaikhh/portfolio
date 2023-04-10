@@ -4,7 +4,7 @@ const Social = () => {
   return (
     <div className="home__social">
       <a
-        href="https://api.whatsapp.com/send?phone=960606569&text=Hello, more information!"
+        href="https://api.whatsapp.com/send?phone=+91960606569&text=Hello, more information!"
         className="home__social-icon"
         target="_blank"
       >
