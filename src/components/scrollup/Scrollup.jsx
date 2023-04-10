@@ -2,6 +2,7 @@ import React from "react";
 import "./scrollup.css";
 
 const Scrollup = () => {
+  // Dynamic scroll
   window.addEventListener("scroll", function () {
     const scrollUp = this.document.querySelector(".scrollup");
     if (this.scrollY >= 560) scrollUp.classList.add("show-scroll");
