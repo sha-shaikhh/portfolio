@@ -28,7 +28,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://api.whatsapp.com/send?phone=+91960606569&text=Hello, more information!"
+            href="https://api.whatsapp.com/send?phone=+919606065695&text=Hello, Shahid!"
             className="footer__social-link"
             target="_blank"
           >
@@ -36,7 +36,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/shahid-shaikh260992/"
+            href="https://www.linkedin.com/in/shahidshaikhh/"
             className="footer__social-link"
             target="_blank"
           >
